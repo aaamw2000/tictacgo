@@ -1,8 +1,12 @@
 commands:
 1. tictacgo play
-2. tictacgo play <playerx> <playero> 
-3. tictacgo play --charx <x> --charo <o>
-4. tictacgo result <logfile.log> -- (x|o) has won | n moves are yet to be made
+	flags:
+		--congrat=[true|false]	
+2. tictacgo play <playerx> <playero> (WIP)
+	flags:
+		--names=name1,name2	
+3. tictacgo play --charx <x> --charo <o> (WIP)
+4. tictacgo result <data.db> | <logfile.log> -- (x|o) has won | n moves are yet to be made (WIP)
 
 config file:
  board seperator
