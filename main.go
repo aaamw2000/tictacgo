@@ -16,7 +16,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 package main
 
-import "tictacgo/cmd"
+import "github.com/aaamw2000/tictacgo/cmd"
 
 func main() {
 	cmd.Execute()
