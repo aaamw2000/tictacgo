@@ -1,4 +1,4 @@
-module tictacgo
+module github.com/aaamw2000/tictacgo
 
 go 1.21.8
 
