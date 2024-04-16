@@ -1,0 +1,11 @@
+commands:
+1. tictacgo play
+2. tictacgo play <playerx> <playero> 
+3. tictacgo play --charx <x> --charo <o>
+4. tictacgo result <logfile.log> -- (x|o) has won | n moves are yet to be made
+
+config file:
+ board seperator
+ prompt design
+ log | no log
+ default chars
